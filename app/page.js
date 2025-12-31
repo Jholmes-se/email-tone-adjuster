@@ -1,4 +1,4 @@
-import EmailToneAdjuster from "@/components/EmailToneAdjuster";
+import EmailToneAdjuster from "../components/EmailToneAdjuster";
 
 export default function Home() {
   return <EmailToneAdjuster />;
